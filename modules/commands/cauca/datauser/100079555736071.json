@@ -1,0 +1,29 @@
+{
+  "name": "Đỗ Nhật Minh",
+  "ID": "100079555736071",
+  "mainROD": null,
+  "GPS": {
+    "locate": null,
+    "area": null
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Cá Thách Đấu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    }
+  ],
+  "item": [
+    {
+      "name": "Tungsten Core Harpoon",
+      "price": 8000,
+      "durability": 200,
+      "countdown": 100,
+      "countdownData": null,
+      "image": "https://i.imgur.com/Ki8rCeH.png"
+    }
+  ],
+  "timeRegister": "23:26:19, 15/6/2022"
+}

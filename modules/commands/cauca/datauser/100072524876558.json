@@ -1,0 +1,20 @@
+{
+    "name": "Nguyễn Hoàng Minh",
+    "ID": "100072524876558",
+    "mainROD": null,
+    "GPS": {
+        "locate": null,
+        "area": null
+    },
+    "fishBag": [
+        {
+            "ID": 0,
+            "name": "Cá Thách Đấu",
+            "category": "Legendary",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "item": [],
+    "timeRegister": "21:18:17, 17/6/2022"
+}

@@ -1,0 +1,229 @@
+{
+  "name": "Nguyen Phan",
+  "ID": "100078298753472",
+  "mainROD": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+  "GPS": {
+    "locate": "Sector Zero",
+    "area": "Sparse Arctic  "
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Cá Thách Đấu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 9,
+      "name": "Sea Dragon Leviathan",
+      "category": "Legendary",
+      "size": 11000,
+      "sell": 1580000,
+      "image": "https://i.imgur.com/iALri8R.png"
+    },
+    {
+      "ID": 14,
+      "name": "Sea Dragon Leviathan",
+      "category": "Legendary",
+      "size": 11000,
+      "sell": 1580000,
+      "image": "https://i.imgur.com/iALri8R.png"
+    },
+    {
+      "ID": 15,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 16,
+      "name": "Brinewing",
+      "category": "Uncommon",
+      "size": 68,
+      "sell": 670,
+      "image": "https://i.imgur.com/jsA3grS.png"
+    },
+    {
+      "ID": 17,
+      "name": "Arctic Peeper",
+      "category": "Common",
+      "size": 34,
+      "sell": 200,
+      "image": "https://i.imgur.com/Qsx7khe.png"
+    },
+    {
+      "ID": 18,
+      "name": "Arctic Peeper",
+      "category": "Common",
+      "size": 34,
+      "sell": 200,
+      "image": "https://i.imgur.com/Qsx7khe.png"
+    },
+    {
+      "ID": 19,
+      "name": "Symbiote",
+      "category": "Rare",
+      "size": 21,
+      "sell": 560,
+      "image": "https://i.imgur.com/HyPRuuO.png"
+    },
+    {
+      "ID": 20,
+      "name": "Symbiote",
+      "category": "Rare",
+      "size": 21,
+      "sell": 560,
+      "image": "https://i.imgur.com/HyPRuuO.png"
+    },
+    {
+      "ID": 21,
+      "name": "Titan Holefish",
+      "category": "Epic",
+      "size": 450,
+      "sell": 8690,
+      "image": "https://i.imgur.com/2uJIRkL.png"
+    },
+    {
+      "ID": 22,
+      "name": "Symbiote",
+      "category": "Rare",
+      "size": 21,
+      "sell": 560,
+      "image": "https://i.imgur.com/HyPRuuO.png"
+    },
+    {
+      "ID": 23,
+      "name": "Arctic Peeper",
+      "category": "Common",
+      "size": 34,
+      "sell": 200,
+      "image": "https://i.imgur.com/Qsx7khe.png"
+    },
+    {
+      "ID": 24,
+      "name": "Arctic Peeper",
+      "category": "Common",
+      "size": 34,
+      "sell": 200,
+      "image": "https://i.imgur.com/Qsx7khe.png"
+    },
+    {
+      "ID": 25,
+      "name": "Brinewing",
+      "category": "Uncommon",
+      "size": 68,
+      "sell": 670,
+      "image": "https://i.imgur.com/jsA3grS.png"
+    },
+    {
+      "ID": 26,
+      "name": "Arctic Peeper",
+      "category": "Common",
+      "size": 34,
+      "sell": 200,
+      "image": "https://i.imgur.com/Qsx7khe.png"
+    },
+    {
+      "ID": 27,
+      "name": "Symbiote",
+      "category": "Rare",
+      "size": 21,
+      "sell": 560,
+      "image": "https://i.imgur.com/HyPRuuO.png"
+    },
+    {
+      "ID": 28,
+      "name": "Titan Holefish",
+      "category": "Epic",
+      "size": 450,
+      "sell": 8690,
+      "image": "https://i.imgur.com/2uJIRkL.png"
+    },
+    {
+      "ID": 29,
+      "name": "Symbiote",
+      "category": "Rare",
+      "size": 21,
+      "sell": 560,
+      "image": "https://i.imgur.com/HyPRuuO.png"
+    },
+    {
+      "ID": 30,
+      "name": "Pengwing",
+      "category": "Uncommon",
+      "size": 32,
+      "sell": 220,
+      "image": "https://i.imgur.com/dH8XB25.png"
+    },
+    {
+      "ID": 31,
+      "name": "Symbiote",
+      "category": "Rare",
+      "size": 21,
+      "sell": 560,
+      "image": "https://i.imgur.com/HyPRuuO.png"
+    },
+    {
+      "ID": 32,
+      "name": "Arctic Peeper",
+      "category": "Common",
+      "size": 34,
+      "sell": 200,
+      "image": "https://i.imgur.com/Qsx7khe.png"
+    },
+    {
+      "ID": 33,
+      "name": "Arctic Peeper",
+      "category": "Common",
+      "size": 34,
+      "sell": 200,
+      "image": "https://i.imgur.com/Qsx7khe.png"
+    },
+    {
+      "ID": 34,
+      "name": "Symbiote",
+      "category": "Rare",
+      "size": 21,
+      "sell": 560,
+      "image": "https://i.imgur.com/HyPRuuO.png"
+    },
+    {
+      "ID": 35,
+      "name": "Pengwing",
+      "category": "Uncommon",
+      "size": 32,
+      "sell": 220,
+      "image": "https://i.imgur.com/dH8XB25.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "Tungsten Core Harpoon",
+      "price": 8000,
+      "durability": 190,
+      "countdown": 100,
+      "countdownData": 1655785415497,
+      "image": "https://i.imgur.com/Ki8rCeH.png"
+    },
+    {
+      "name": "D.U Core Harpoon",
+      "price": 17500,
+      "durability": 400,
+      "countdown": 60,
+      "countdownData": 1655785898986,
+      "image": "https://i.imgur.com/vWRvdAP.png"
+    },
+    {
+      "name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 1675000,
+      "durability": 58790,
+      "countdown": 5,
+      "countdownData": 1656140609769,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    }
+  ],
+  "timeRegister": "21:36:13, 20/6/2022"
+}

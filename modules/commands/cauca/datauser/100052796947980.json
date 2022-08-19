@@ -1,0 +1,29 @@
+{
+  "name": "Sera Silvers",
+  "ID": "100052796947980",
+  "mainROD": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Crystal Caves"
+  },
+  "fishBag": [],
+  "item": [
+    {
+      "name": "Jeweled Tungsten Harpoon",
+      "price": 29000,
+      "durability": 900,
+      "countdown": 30,
+      "countdownData": 1655315735632,
+      "image": "https://i.imgur.com/P4l8Ivq.jpg"
+    },
+    {
+      "name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 1675000,
+      "durability": 38390,
+      "countdown": 5,
+      "countdownData": 1659500873756,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    }
+  ],
+  "timeRegister": "12:49:27, 14/6/2022"
+}

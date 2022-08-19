@@ -1,0 +1,21 @@
+{
+  "name": "Ngô An Tuấn Khang",
+  "ID": "100035373290116",
+  "mainROD": "thẻ thần thoại",
+  "GPS": {
+    "locate": "Sector Zero",
+    "area": "Sparse Arctic  "
+  },
+  "fishBag": [],
+  "item": [
+    {
+      "name": "thẻ thần thoại",
+      "price": 1675000,
+      "durability": 59520,
+      "countdown": 5,
+      "countdownData": 1655697334005,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    }
+  ],
+  "timeRegister": "23:09:09, 17/6/2022"
+}

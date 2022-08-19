@@ -1,0 +1,20 @@
+{
+    "name": "Nhân Tâm",
+    "ID": "100075310825932",
+    "mainROD": null,
+    "GPS": {
+        "locate": null,
+        "area": null
+    },
+    "fishBag": [
+        {
+            "ID": 0,
+            "name": "Cá Thách Đấu",
+            "category": "Legendary",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "item": [],
+    "timeRegister": "10:09:24, 16/6/2022"
+}

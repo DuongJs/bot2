@@ -1,0 +1,20 @@
+{
+    "name": "Đinh Xuân",
+    "ID": "100080908497369",
+    "mainROD": null,
+    "GPS": {
+        "locate": null,
+        "area": null
+    },
+    "fishBag": [
+        {
+            "ID": 0,
+            "name": "Cá Thách Đấu",
+            "category": "Legendary",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "item": [],
+    "timeRegister": "19:17:52, 19/6/2022"
+}

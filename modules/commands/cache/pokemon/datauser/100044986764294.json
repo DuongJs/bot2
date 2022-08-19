@@ -1,0 +1,79 @@
+{
+  "name": "Tui Đang Hok",
+  "ID": "100044986764294",
+  "pet": [
+    {
+      "name": "Jumpluff",
+      "type": "Grass",
+      "HP": "112.5",
+      "Attack": "82.5",
+      "Defense": "105.0",
+      "Speed": "165.0",
+      "skill": [
+        "Chlorophyll",
+        "Leaf Guard",
+        "Infiltrator"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/189.png"
+    },
+    {
+      "name": "Venonat",
+      "type": "Bug",
+      "HP": "60.0",
+      "Attack": "55.0",
+      "Defense": "50.0",
+      "Speed": "45.0",
+      "skill": [
+        "Compound Eyes",
+        "Tinted Lens",
+        "Run Away"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/048.png"
+    },
+    {
+      "name": "Starly",
+      "type": "Normal",
+      "HP": "20.0",
+      "Attack": "27.5",
+      "Defense": "15.0",
+      "Speed": "30.0",
+      "skill": [
+        "Keen Eye",
+        "Reckless"
+      ],
+      "coins": 5000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/396.png"
+    },
+    {
+      "name": "Floette",
+      "type": "Fairy",
+      "HP": "21.6",
+      "Attack": "18.0",
+      "Defense": "18.8",
+      "Speed": "20.8",
+      "skill": [
+        "Flower Veil",
+        "Symbiosis"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/670.png"
+    }
+  ],
+  "foods": [
+    {
+      "name": "Mouth Watering Dip a la Cube",
+      "type": "Grass",
+      "HP": 12,
+      "Attack": 12,
+      "Defense": 12,
+      "Speed": 12
+    }
+  ],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Hung Dao",
+  "ID": "100026687234531",
+  "pet": [
+    {
+      "name": "Rayquaza",
+      "type": "Dragon",
+      "HP": "157.512",
+      "Attack": "225.012",
+      "Defense": "135.012",
+      "Speed": "142.512",
+      "skill": [
+        "Air Lock"
+      ],
+      "coins": 22500,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/384.png"
+    },
+    {
+      "name": "Mismagius",
+      "type": "Ghost",
+      "HP": "24.0",
+      "Attack": "24.0",
+      "Defense": "24.0",
+      "Speed": "42.0",
+      "skill": [
+        "Levitate"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/429.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

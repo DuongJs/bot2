@@ -1,0 +1,112 @@
+{
+  "name": "Duy Tempest",
+  "ID": "100068572923971",
+  "pet": [
+    {
+      "name": "Zeraora",
+      "type": "Electric",
+      "HP": "132.0",
+      "Attack": "168.0",
+      "Defense": "112.5",
+      "Speed": "214.5",
+      "skill": [
+        "Volt Absorb"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/807.png"
+    },
+    {
+      "name": "Poipole",
+      "type": "Poison",
+      "HP": "26.8",
+      "Attack": "29.2",
+      "Defense": "26.8",
+      "Speed": "29.2",
+      "skill": [
+        "Beast Boost"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/803.png"
+    },
+    {
+      "name": "Omastar",
+      "type": "Rock",
+      "HP": "35.0",
+      "Attack": "30.0",
+      "Defense": "62.5",
+      "Speed": "27.5",
+      "skill": [
+        "Swift Swim",
+        "Shell Armor",
+        "Weak Armor"
+      ],
+      "coins": 5000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/139.png"
+    },
+    {
+      "name": "Dartrix",
+      "type": "Grass",
+      "HP": "31.2",
+      "Attack": "30.0",
+      "Defense": "30.0",
+      "Speed": "20.8",
+      "skill": [
+        "Overgrow",
+        "Long Reach"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/723.png"
+    },
+    {
+      "name": "Victreebel",
+      "type": "Grass",
+      "HP": "120.0",
+      "Attack": "157.5",
+      "Defense": "97.5",
+      "Speed": "105.0",
+      "skill": [
+        "Chlorophyll",
+        "Gluttony"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/071.png"
+    },
+    {
+      "name": "Moltres",
+      "type": "Fire",
+      "HP": "135.0",
+      "Attack": "150.0",
+      "Defense": "135.0",
+      "Speed": "135.0",
+      "skill": [
+        "Pressure",
+        "Flame Body"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/146.png"
+    }
+  ],
+  "foods": [
+    {
+      "name": "Mouth Watering Dip a la Cube",
+      "type": "Electric",
+      "HP": 12,
+      "Attack": 12,
+      "Defense": 12,
+      "Speed": 12
+    },
+    {
+      "name": "Mouth Watering Dip a la Cube",
+      "type": "Electric",
+      "HP": 12,
+      "Attack": 12,
+      "Defense": 12,
+      "Speed": 12
+    }
+  ],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

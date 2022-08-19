@@ -1,0 +1,25 @@
+{
+  "name": "Phúc Vượng",
+  "ID": "100025201908569",
+  "pet": [
+    {
+      "name": "Wishiwashi",
+      "type": "Water",
+      "HP": "18.0",
+      "Attack": "8.0",
+      "Defense": "8.0",
+      "Speed": "16.0",
+      "skill": [
+        "Schooling"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/746.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

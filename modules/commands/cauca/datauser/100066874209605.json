@@ -1,0 +1,29 @@
+{
+  "name": "Sakamata Ayame",
+  "ID": "100066874209605",
+  "mainROD": null,
+  "GPS": {
+    "locate": null,
+    "area": null
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Cá Thách Đấu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    }
+  ],
+  "item": [
+    {
+      "name": "D.U Core Harpoon",
+      "price": 17500,
+      "durability": 450,
+      "countdown": 60,
+      "countdownData": null,
+      "image": "https://i.imgur.com/vWRvdAP.png"
+    }
+  ],
+  "timeRegister": "11:14:00, 18/6/2022"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Nguyễn Dương",
+  "ID": "100035731083424",
+  "pet": [
+    {
+      "name": "Arceus",
+      "type": "Normal",
+      "HP": 120,
+      "Attack": 120,
+      "Defense": 120,
+      "Speed": 120,
+      "coins": 48000,
+      "skill": [
+        "Multitype"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/493.png"
+    },
+    {
+      "name": "Glalie",
+      "type": "Ice",
+      "HP": "32.0",
+      "Attack": "32.0",
+      "Defense": "32.0",
+      "Speed": "32.0",
+      "skill": [
+        "Inner Focus",
+        "Ice Body",
+        "Moody"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/362.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

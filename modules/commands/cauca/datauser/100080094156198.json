@@ -1,0 +1,21 @@
+{
+  "name": "Võ Đức Minh Quân",
+  "ID": "100080094156198",
+  "mainROD": "Ion Powered Trident",
+  "GPS": {
+    "locate": "Sector Zero",
+    "area": "Sparse Arctic  "
+  },
+  "fishBag": [],
+  "item": [
+    {
+      "name": "Ion Powered Trident",
+      "price": 57000,
+      "durability": 1930,
+      "countdown": 15,
+      "countdownData": 1655432172140,
+      "image": "https://i.imgur.com/W5dAfCn.jpg"
+    }
+  ],
+  "timeRegister": "10:23:50, 16/6/2022"
+}

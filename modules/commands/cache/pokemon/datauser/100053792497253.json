@@ -1,0 +1,27 @@
+{
+  "name": "Rùa Con Vui Vẻ",
+  "ID": "100053792497253",
+  "pet": [
+    {
+      "name": "Poochyena",
+      "type": "Dark",
+      "HP": "52.5",
+      "Attack": "82.5",
+      "Defense": "52.5",
+      "Speed": "52.5",
+      "skill": [
+        "Run Away",
+        "Quick Feet",
+        "Rattled"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/261.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

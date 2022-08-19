@@ -1,0 +1,52 @@
+{
+  "name": "Huyền",
+  "ID": "100041480333402",
+  "pet": [
+    {
+      "name": "Charizard",
+      "type": "Fire",
+      "HP": 78,
+      "Attack": 84,
+      "Defense": 78,
+      "Speed": 100,
+      "coins": 34000,
+      "skill": [
+        "Blaze",
+        "Solar Power"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/006.png"
+    },
+    {
+      "name": "Chingling",
+      "type": "Psychic",
+      "HP": "67.5",
+      "Attack": "45.0",
+      "Defense": "75.0",
+      "Speed": "67.5",
+      "skill": [
+        "Levitate"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/433.png"
+    },
+    {
+      "name": "Archen",
+      "type": "Rock",
+      "HP": "27.5",
+      "Attack": "56.0",
+      "Defense": "22.5",
+      "Speed": "35.0",
+      "skill": [
+        "Defeatist"
+      ],
+      "coins": 5000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/566.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

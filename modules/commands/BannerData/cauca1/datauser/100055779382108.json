@@ -1,0 +1,20 @@
+{
+    "name": "Gia Bảo",
+    "ID": "100055779382108",
+    "mainROD": null,
+    "GPS": {
+        "locate": null,
+        "area": null
+    },
+    "fishBag": [
+        {
+            "ID": 0,
+            "name": "kiếm Thách Đấu",
+            "category": "Legendary",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "item": [],
+    "timeRegister": "23:25:01, 17/6/2022"
+}

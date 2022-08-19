@@ -1,0 +1,258 @@
+{
+  "name": "Ngô An Tuấn Khang",
+  "ID": "100035373290116",
+  "pet": [
+    {
+      "name": "Arcanine",
+      "type": "Fire",
+      "HP": 90,
+      "Attack": 110,
+      "Defense": 80,
+      "Speed": 95,
+      "coins": 37500,
+      "skill": [
+        "Intimidate",
+        "Flash Fire",
+        "Justified"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/059.png"
+    },
+    {
+      "name": "Golem",
+      "type": "Rock",
+      "HP": 80,
+      "Attack": 120,
+      "Defense": 130,
+      "Speed": 45,
+      "coins": 37500,
+      "skill": [
+        "Rock Head",
+        "Sturdy",
+        "Sand Veil"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/076.png"
+    },
+    {
+      "name": "Kingler",
+      "type": "Water",
+      "HP": 55,
+      "Attack": 130,
+      "Defense": 115,
+      "Speed": 75,
+      "coins": 37500,
+      "skill": [
+        "Hyper Cutter",
+        "Shell Armor",
+        "Sheer Force"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/099.png"
+    },
+    {
+      "name": "Rhydon",
+      "type": "Ground",
+      "HP": 105,
+      "Attack": 130,
+      "Defense": 120,
+      "Speed": 40,
+      "coins": 39500,
+      "skill": [
+        "Lightning Rod",
+        "Rock Head",
+        "Reckless"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/112.png"
+    },
+    {
+      "name": "Gyarados",
+      "type": "Water",
+      "HP": 95,
+      "Attack": 125,
+      "Defense": 79,
+      "Speed": 81,
+      "coins": 38000,
+      "skill": [
+        "Intimidate",
+        "Moxie"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/130.png"
+    },
+    {
+      "name": "Dragonite",
+      "type": "Dragon",
+      "HP": "127.4",
+      "Attack": "187.6",
+      "Defense": "133.0",
+      "Speed": "112.0",
+      "coins": "48000.0",
+      "skill": [
+        "Inner Focus",
+        "Multiscale"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/149.png"
+    },
+    {
+      "name": "Mewtwo",
+      "type": "Psychic",
+      "HP": "148.4",
+      "Attack": "154.0",
+      "Defense": "126.0",
+      "Speed": "182.0",
+      "coins": "52320.0",
+      "skill": [
+        "Pressure",
+        "Unnerve"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/150.png"
+    },
+    {
+      "name": "Zapdos",
+      "type": "Electric",
+      "HP": "126.0",
+      "Attack": "126.0",
+      "Defense": "119.0",
+      "Speed": "140.0",
+      "coins": "43800.0",
+      "skill": [
+        "Pressure",
+        "Static"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/145.png"
+    },
+    {
+      "name": "Feraligatr",
+      "type": "Water",
+      "HP": 85,
+      "Attack": 105,
+      "Defense": 100,
+      "Speed": 78,
+      "coins": 36800,
+      "skill": [
+        "Torrent",
+        "Sheer Force"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/160.png"
+    },
+    {
+      "name": "Granbull",
+      "type": "Fairy",
+      "HP": 90,
+      "Attack": 120,
+      "Defense": 75,
+      "Speed": 45,
+      "coins": 33000,
+      "skill": [
+        "Intimidate",
+        "Quick Feet",
+        "Rattled"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/210.png"
+    },
+    {
+      "name": "Swampert",
+      "type": "Water",
+      "HP": 100,
+      "Attack": 110,
+      "Defense": 90,
+      "Speed": 60,
+      "coins": 36000,
+      "skill": [
+        "Torrent",
+        "Damp"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/260.png"
+    },
+    {
+      "name": "Ninjask",
+      "type": "Bug",
+      "HP": 61,
+      "Attack": 90,
+      "Defense": 45,
+      "Speed": 160,
+      "coins": 35600,
+      "skill": [
+        "Speed Boost",
+        "Infiltrator"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/291.png"
+    },
+    {
+      "name": "Rampardos",
+      "type": "Rock",
+      "HP": 97,
+      "Attack": 165,
+      "Defense": 60,
+      "Speed": 58,
+      "coins": 38000,
+      "skill": [
+        "Mold Breaker",
+        "Sheer Force"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/409.png"
+    },
+    {
+      "name": "Honchkrow",
+      "type": "Dark",
+      "HP": 100,
+      "Attack": 125,
+      "Defense": 52,
+      "Speed": 71,
+      "coins": 34800,
+      "skill": [
+        "Insomnia",
+        "Super Luck",
+        "Moxie"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/430.png"
+    },
+    {
+      "name": "Hippowdon",
+      "type": "Ground",
+      "HP": 108,
+      "Attack": 112,
+      "Defense": 118,
+      "Speed": 47,
+      "coins": 38500,
+      "skill": [
+        "Sand Stream",
+        "Sand Force"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/450.png"
+    },
+    {
+      "name": "Liepard",
+      "type": "Dark",
+      "HP": 64,
+      "Attack": 88,
+      "Defense": 50,
+      "Speed": 106,
+      "coins": 30800,
+      "skill": [
+        "Limber",
+        "Unburden",
+        "Prankster"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/510.png"
+    },
+    {
+      "name": "Galvantula",
+      "type": "Bug",
+      "HP": 70,
+      "Attack": 77,
+      "Defense": 60,
+      "Speed": 108,
+      "coins": 31500,
+      "skill": [
+        "Compound Eyes",
+        "Unnerve",
+        "Swarm"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/596.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

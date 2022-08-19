@@ -1,0 +1,69 @@
+{
+  "name": "Nguyễn Dương",
+  "ID": "100035731083424",
+  "mainROD": "thẻ chi tôn",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Safe Shallows"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "kiếm Thách Đấu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Ngưng băng kiếm",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/XLgSuR0.jpeg"
+    },
+    {
+      "ID": 2,
+      "name": "tạp đan nhất phẩm",
+      "category": "Common",
+      "size": 37,
+      "sell": 250,
+      "image": "https://i.imgur.com/qZfeAoN.png"
+    },
+    {
+      "ID": 3,
+      "name": "Anh đào huyết nguyệt kiếm",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/ioJf9U4.jpg"
+    }
+  ],
+  "item": [
+    {
+      "name": "thẻ gỗ",
+      "price": 400,
+      "durability": 10,
+      "countdown": 300,
+      "countdownData": 1653363293728,
+      "image": "https://i.imgur.com/l8Mszkn.png"
+    },
+    {
+      "name": "thẻ chi tôn",
+      "price": 57000,
+      "durability": 1970,
+      "countdown": 15,
+      "countdownData": 1655465585428,
+      "image": "https://i.imgur.com/W5dAfCn.jpg"
+    },
+    {
+      "name": "thẻ thần thoại",
+      "price": 1675000,
+      "durability": 60000,
+      "countdown": 5,
+      "countdownData": null,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    }
+  ],
+  "timeRegister": "10:33:53, 24/5/2022"
+}

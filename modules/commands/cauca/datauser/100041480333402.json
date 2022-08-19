@@ -1,0 +1,29 @@
+{
+  "name": "Huyền",
+  "ID": "100041480333402",
+  "mainROD": "Ion Powered Trident",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Crash Zone"
+  },
+  "fishBag": [],
+  "item": [
+    {
+      "name": "Steel Harpoon",
+      "price": 1500,
+      "durability": 0,
+      "countdown": 180,
+      "countdownData": 1655267033117,
+      "image": "https://i.imgur.com/mptiizn.png"
+    },
+    {
+      "name": "Ion Powered Trident",
+      "price": 57000,
+      "durability": 1500,
+      "countdown": 15,
+      "countdownData": 1655485725311,
+      "image": "https://i.imgur.com/W5dAfCn.jpg"
+    }
+  ],
+  "timeRegister": "12:50:09, 14/6/2022"
+}

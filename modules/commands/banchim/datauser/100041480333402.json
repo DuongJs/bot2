@@ -1,0 +1,18 @@
+{
+    "name": "Huyền",
+    "ID": "100041480333402",
+    "shield": 3,
+    "coins": 20000,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 0,
+            "tree": 0,
+            "pool": 0,
+            "pet": 0
+        }
+    },
+    "spin": 19,
+    "timeRegister": "00:51:11, 21/6/2022"
+}

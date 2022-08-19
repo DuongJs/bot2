@@ -1,0 +1,21 @@
+{
+  "name": "Sera Silvers",
+  "ID": "100052796947980",
+  "mainROD": "thẻ thần thoại",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "World Edge – The Void"
+  },
+  "fishBag": [],
+  "item": [
+    {
+      "name": "thẻ thần thoại",
+      "price": 1675000,
+      "durability": 58270,
+      "countdown": 5,
+      "countdownData": 1658908298806,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    }
+  ],
+  "timeRegister": "23:03:59, 17/6/2022"
+}

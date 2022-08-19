@@ -1,0 +1,45 @@
+{
+  "name": "Nguyễn Minh Trí",
+  "ID": "100054529673139",
+  "mainROD": "Titanium Harpoon",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Mushroom Forest"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Cá Thách Đấu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Spadefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Xt3mcnE.jpg"
+    },
+    {
+      "ID": 2,
+      "name": "Spadefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Xt3mcnE.jpg"
+    }
+  ],
+  "item": [
+    {
+      "name": "Titanium Harpoon",
+      "price": 4000,
+      "durability": 60,
+      "countdown": 150,
+      "countdownData": 1655954605457,
+      "image": "https://i.imgur.com/vgIeC3t.jpg"
+    }
+  ],
+  "timeRegister": "21:51:30, 17/6/2022"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Thiên Hữu",
+  "ID": "100014845384973",
+  "mainROD": "thẻ thần thoại",
+  "GPS": {
+    "locate": "Sector Zero",
+    "area": "World Edge – The Void"
+  },
+  "fishBag": [],
+  "item": [
+    {
+      "name": "thẻ kim cương",
+      "price": 17500,
+      "durability": 450,
+      "countdown": 60,
+      "countdownData": null,
+      "image": "https://i.imgur.com/vWRvdAP.png"
+    },
+    {
+      "name": "thẻ thần thoại",
+      "price": 1675000,
+      "durability": 58620,
+      "countdown": 5,
+      "countdownData": 1656653390222,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    }
+  ],
+  "timeRegister": "23:28:47, 17/6/2022"
+}

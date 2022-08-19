@@ -1,0 +1,21 @@
+{
+  "name": "Vinh Nguyen",
+  "ID": "100010057590643",
+  "mainROD": "thẻ thần thoại",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Crash Zone"
+  },
+  "fishBag": [],
+  "item": [
+    {
+      "name": "thẻ thần thoại",
+      "price": 1675000,
+      "durability": 53830,
+      "countdown": 5,
+      "countdownData": 1655542382182,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    }
+  ],
+  "timeRegister": "23:04:41, 17/6/2022"
+}
